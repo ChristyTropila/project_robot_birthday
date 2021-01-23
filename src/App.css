@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "SEGA LOGO FONT";
+  font-style: normal;
+  font-weight: normal;
+  src: local("SEGA LOGO FONT"), url("SEGA.woff") format("woff");
+}
+
+.card-div > h1 {
+  color: #c92275;
+}
+h1,
+h2 {
+  font-family: "SEGA LOGO FONT";
+  font-weight: 200;
+  letter-spacing: 8px;
+  color: #0ccac4;
+}
+
+h3 {
+  font-family: "Arial";
+  font-weight: 800;
+  color: #c92275;
+}
